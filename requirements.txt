@@ -39,7 +39,7 @@ matplotlib-inline==0.2.1
 multidict==6.7.1
 narwhals==2.20.0
 numpy==2.4.4
-openai==1.0.0
+openai==1.73.0
 packaging==26.2
 pandas==3.0.2
 parso==0.8.6
